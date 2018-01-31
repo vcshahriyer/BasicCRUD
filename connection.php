@@ -2,7 +2,7 @@
 	
 	$dbhost = "localhost";
 	$dbuser = "cse301";
-	$dbpass = "Shahriyer076@";
+	$dbpass = "secret";
 	$dbname = "students";
 	$connection = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
 
